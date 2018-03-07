@@ -52,7 +52,7 @@ if sys.platform == 'darwin' and os.path.exists('/usr/bin/xcodebuild'):
     os.environ['ARCHFLAGS'] = ''
 
 setup(
-    name = "branchingE",
+    name = "network-pytim",
     version = "0.1.4",
     author = "Elija Feigl",
     author_email = "elija.feigl@gmail.com",
